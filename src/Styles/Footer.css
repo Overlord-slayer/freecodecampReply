@@ -1,0 +1,62 @@
+.fondo{
+    width: 120%;
+    background-color: #2a2b40;
+    display: flex;
+    flex-direction: column;
+}
+
+.container{
+    display: flex;
+    gap: 20px;
+    flex-direction: row;
+    background-color: #2a2b40;
+}
+
+ul{
+    list-style-type: none;
+    line-height: 2;
+    text-align: left;
+}
+
+a{
+    text-decoration: none;
+    color: #d0d0d5;
+    font-family: Lato, sans-serif;
+}
+
+.text{
+    color: white;
+    font-family: Lato, sans-serif;
+    text-align: left;
+}
+
+.text{
+    line-height: 2;
+}
+
+.linksTittle{
+    color: white;
+    font-family: Lato, sans-serif;
+}
+
+.columns{
+    display: flex;
+    flex-direction: column;
+}
+.links{
+    display: flex;
+    flex-direction: row;
+}
+
+.lowerContainer{
+    display: flex;margin-right: 0;
+}
+
+.colorDivider{
+    background-color: #d0d0d5;
+    width: 1200px;
+}
+
+.element{
+    margin-left: -22px;
+}

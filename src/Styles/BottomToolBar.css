@@ -1,0 +1,55 @@
+.UpperText{
+    margin-top: 80px;
+    text-align: center;
+    color: white;
+    display: inline-block;
+    text-align: left;
+    font-family: Lato, sans-serif;
+}
+
+.Titles h1{
+    font-size: 50px;
+}
+
+.Paragraph p{
+    display: inline-block;
+    text-align: left;
+    font-family: Lato, sans-serif;
+    font-size: 20px;
+}
+
+.Start-freeButton{
+    border-radius: 0;
+    font-size: 25px;
+    width: 490px;
+    height: 50px;
+    border: 2.5px solid rgb(229, 177, 94);
+    background: linear-gradient(180deg, #fbde74 0%, #ff9900 100%);
+    color:black;
+    display: inline-block;
+    text-align: center;
+}
+
+.Start-freeButton:hover{
+    background: #f0cb7a;
+    border: 1px solid linear-gradient(180deg, #fbde74 0%, #ff9900 100%);
+    transition: 0s;
+}
+
+.picture{
+    margin-top: 70px;
+    height: 100%;
+    width: auto;
+    color:rgb(184, 176, 176);
+    font-family: Lato, sans-serif;
+    font-size: 18px;
+}
+
+.companyContainer{
+    margin-top: -50px;
+    margin-bottom: -20px;
+    transform: scale(0.4);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,28 @@
+.tittle{
+    margin-top: 130px;
+    color: white;
+    font-family: Lato, sans-serif;
+    font-size: 40px;
+}
+
+.Start-freeButton{
+    border-radius: 0;
+    font-size: 25px;
+    width: 490px;
+    height: 50px;
+    border: 2.5px solid rgb(229, 177, 94);
+    background: linear-gradient(180deg, #fbde74 0%, #ff9900 100%);
+    color:black;
+    margin-top: 20px;
+    text-align: center;
+    display: inline-block;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.Start-freeButton:hover{
+    background: #f0cb7a;
+    border: 1px solid linear-gradient(180deg, #fbde74 0%, #ff9900 100%);
+    transition: 0s;
+}

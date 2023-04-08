@@ -1,0 +1,12 @@
+/*Logo*/
+.site{
+    display: flex;
+    position: relative;
+    height:40px;
+    align-self: flex-start;
+    left: 100px;
+    top: 3px;
+    bottom: 0;
+    align-items: center;
+    justify-content: center;
+}
