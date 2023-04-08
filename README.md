@@ -26,7 +26,11 @@ Para poder utilizar este proyecto, se debe contar con el manejador de paquetes [
 utilizando el comando "yarn add"
 
 # Uso: 
+Al principio, se puedo hallar el toolBar, donde se puede ingresar el usuario, en este caso, iniciar cuenta.
+Se pueden buscar los cursos que esten disponibles en el sitio, pero como es un copia del original, no funcionara.
 
+Se presenta un poco sobre los colaboradores del sitio, y sobre algunas personas que tomaron tales cursos.
+Abajo de los testimonios, se encuentran los cursos, los cuales, uno puede tomar.
 
 # Contribución: 
 Si desean contribuir en este proyecto, son bienvenidos, pero no es necesario, pues no tiene nada de especial, ya que es un
