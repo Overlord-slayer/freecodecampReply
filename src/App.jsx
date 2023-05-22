@@ -21,6 +21,7 @@ function App() {
       .then((res) => setData(res.docs.map((image) => ({ id: image.id, ...image.data() }))))
   }, [])
 
+  console.log(data)
   return (
     <>
       <NavBar logo={data[1]} />
